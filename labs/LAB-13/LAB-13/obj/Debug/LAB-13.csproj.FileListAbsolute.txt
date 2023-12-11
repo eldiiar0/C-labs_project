@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\bin\Debug\LAB-13.exe.config
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\bin\Debug\LAB-13.exe
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\bin\Debug\LAB-13.pdb
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB-13.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB_13.Form1.resources
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB_13.Properties.Resources.resources
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB-13.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB-13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB-13.exe
+C:\Users\user\Desktop\C#L\LAB-13\LAB-13\obj\Debug\LAB-13.pdb
